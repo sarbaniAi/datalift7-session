@@ -1,9 +1,11 @@
 
-The AWS Sample Solution Frameowkr is available here:
+Hi everyone, thank you for watching my session.
+
+The AWS Sample Solution and test data is available here:
 https://github.com/aws/amazon-sagemaker-examples/blob/main/end_to_end/fraud_detection/0-AutoClaimFraudDetection.ipynb
 
-Customize the solution with your own dat
+Customize the solution with your data
 Play with the clarify to create different bias and explainability metrics.
 
-Pre processing can be done using local python code or uing spark glue. Wrnagler is expensive.
-Then bypass the wrangler flow module and use pre processed dataset directly in the Module -1.
+Pre-processing can be done using local python code or using spark glue. Wrangler is expensive.
+Then bypass the wrangler flow module and use pre-processed dataset directly in Module -1.
